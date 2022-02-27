@@ -1,0 +1,6 @@
+undefined symbol: _ZSt7forwardIPN7sandbox16ExportedFunctionIPcJiEEEEOT_RNSt16remove_referenceIS5_E4typeE
+
+From the IR dump:
+
+; Function Attrs: nounwind
+declare nonnull align 8 dereferenceable(8) %"class.sandbox::ExportedFunction.14"** @_ZSt7forwardIPN7sandbox16ExportedFunctionIPcJiEEEEOT_RNSt16remove_referenceIS5_E4typeE(%"class.sandbox::ExportedFunction.14"** nonnull align 8 dereferenceable(8) %0) #1
